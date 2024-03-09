@@ -22,8 +22,12 @@ To read data, run
 
 where COM6 is the serial port over BlueTooth
 
-To plot i realtime
+To plot i realtime, open new terminal and run
+
+`python plot.py <FILE_NAME>`
+
+where <FILE_NAME> is plotted by read_data.py
 
 ## License
 
-Information about the project's license.
+MIT
